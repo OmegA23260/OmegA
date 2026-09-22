@@ -38,5 +38,5 @@ python emae.py
 ## Installation
 
 ```bash
-git clone https://github.com/OmegA23260
+https://github.com/OmegA23260/OmegA/blob/main/Instructions
 ```
