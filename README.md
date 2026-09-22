@@ -35,7 +35,7 @@ Contract Amount = 100,000 / 0.85 ≈ 117,647 ₸
 "python emae.py"
 ```
 
-## Instal .exe
+## Install .exe
 ```bash
 "Обратный процент.exe"
 ```
