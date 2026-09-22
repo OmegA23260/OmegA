@@ -34,12 +34,12 @@ Contract Amount = 100,000 / 0.85 ≈ 117,647 ₸
 
 ## How to Run
 
-\\\bash
+```bash
 python main.py
-\\\
+```
 
 ## Installation
 
-\\\bash
+```bash
 git clone https://github.com/OmegA23260/OmegA/blob/main/Instructions
-\\\
+```
