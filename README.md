@@ -41,7 +41,5 @@ python main.py
 ## Installation
 
 \\\bash
-git clone https://github.com/yourusername/reverse-tax-calculator.git
-cd reverse-tax-calculator
-python main.py
+git clone https://github.com/OmegA23260/OmegA/blob/main/Instructions
 \\\
