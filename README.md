@@ -1,6 +1,3 @@
-# OmegA
-Reverse Percentage – A program for calculating the total contract amount based on a desired final price.
-
 # Reverse Tax Calculator
 
 A small Python (Tkinter) desktop app for individual entrepreneurs (IP) in Kazakhstan.
