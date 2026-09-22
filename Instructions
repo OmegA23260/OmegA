@@ -1,0 +1,31 @@
+## Installation & Usage
+
+### Option 1 — Just run the app (no coding needed)
+
+1. Go to the [Releases] section of this repository
+2. Download the `.zip` archive and unzip it into a folder of your choice
+3. Create a desktop shortcut to `Обратный Процент.exe` inside that folder
+4. Double-click the shortcut to run
+
+   > Note: a console window may briefly appear alongside the app — this is a known cosmetic issue and doesn't affect functionality.
+
+### Option 2 — Run from source (for developers)
+
+**Requirements:** Python 3.x installed
+
+\`\`\`bash
+git clone https://github.com/yourusername/reverse-tax-calculator.git
+cd reverse-tax-calculator
+python emae.py
+\`\`\`
+
+No external dependencies required — the app only uses Python's built-in `tkinter` library.
+
+### Building the .exe yourself
+
+\`\`\`bash
+pip install pyinstaller
+pyinstaller --onefile --noconsole emae.py
+\`\`\`
+
+The executable will appear in the `dist/` folder.
