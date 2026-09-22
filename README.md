@@ -37,7 +37,7 @@ Contract Amount = 100,000 / 0.85 ≈ 117,647 ₸
 
 ## Instal .exe
 ```bash
-click "Обратный процент.exe"
+"Обратный процент.exe"
 ```
 
 ## Installation
